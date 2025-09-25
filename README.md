@@ -1,10 +1,8 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>AIM:</h3>
-<h3>ENTER YOUR NAME</h3>
-<h3>ENTER YOUR REGISTER NO</h3>
-<h3>EX. NO</h3>
-<h3>DATE</h3>
+### NAME:T.ROSHINI
+### REGISTER NO:212223230175
+### DATE: 
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
 ii. Matrix summation with a 2D grid and 2D blocks. Adapt it to integer matrix addition. Find the best execution configuration. </h3>
@@ -195,7 +193,8 @@ int main(int argc, char **argv)
 
 ```
 ## OUTPUT:
-![Uploading 493675792-e7dbc81c-1234-4721-af34-09805b4a6913.png…]()
+
+<img width="1122" height="185" alt="493675792-e7dbc81c-1234-4721-af34-09805b4a6913" src="https://github.com/user-attachments/assets/acf4e950-9570-4791-b1ca-c67d7e0b34d2" />
 
 
 ## RESULT:
