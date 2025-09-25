@@ -194,8 +194,8 @@ int main(int argc, char **argv)
 ```
 ## OUTPUT:
 
-<img width="1122" height="185" alt="493675792-e7dbc81c-1234-4721-af34-09805b4a6913" src="https://github.com/user-attachments/assets/acf4e950-9570-4791-b1ca-c67d7e0b34d2" />
+<img width="1351" height="401" alt="488822093-49294b06-9f76-45eb-a25b-c1db06c7b8da" src="https://github.com/user-attachments/assets/76b2c73f-c78e-42f7-a67b-626432b016be" />
 
 
 ## RESULT:
-The host took _________ seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in ________ seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took 0.892484 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.066775 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
